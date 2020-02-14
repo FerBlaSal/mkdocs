@@ -1,0 +1,9 @@
+site_name: exercici m08
+nav:
+    - Home: index.md
+    - Java: java.md
+    - Desplegament: desplegament.md
+    - Llista: llista.md
+theme: readthedocs
+
+
